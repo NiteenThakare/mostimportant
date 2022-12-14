@@ -13,11 +13,6 @@ public class FactorialNumber {
 		System.out.println("Factorial Number=>"+a);
 		a=factorialnumber(8);
 		System.out.println("Factorial Number=>"+a);
-		
-		
-		
-
-
 	}
 	public static int factorialnumber(int a)
 	{
